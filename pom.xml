@@ -6,7 +6,7 @@
 
     <groupId>de.no3x.latex</groupId>
     <artifactId>latex-errorparser</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <description>Parses latex output to construct meaningful error messages.</description>
