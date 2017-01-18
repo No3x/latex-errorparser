@@ -1,2 +1,2 @@
-# latex-errorparser
+# latex-errorparser [![Build Status](https://travis-ci.org/No3x/latex-errorparser.svg?branch=master)](https://travis-ci.org/No3x/latex-errorparser) [![Release](https://jitpack.io/v/No3x/latex-errorparser.svg)](https://jitpack.io/#No3x/latex-errorparser) [![codecov](https://codecov.io/gh/No3x/latex-errorparser/branch/master/graph/badge.svg)](https://codecov.io/gh/No3x/latex-errorparser)
 Parses latex output to construct meaningful error messages.
